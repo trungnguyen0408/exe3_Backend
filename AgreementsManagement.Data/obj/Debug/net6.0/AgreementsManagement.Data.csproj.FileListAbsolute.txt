@@ -1,0 +1,51 @@
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.Data\bin\Debug\net6.0\AgreementsManagement.Data.deps.json
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.Data\bin\Debug\net6.0\AgreementsManagement.Data.runtimeconfig.json
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.Data\bin\Debug\net6.0\AgreementsManagement.Data.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.Data\bin\Debug\net6.0\AgreementsManagement.Data.pdb
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.csproj.AssemblyReference.cache
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.AssemblyInfoInputs.cache
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.AssemblyInfo.cs
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.csproj.CoreCompileInputs.cache
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.csproj.CopyComplete
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\refint\AgreementsManagement.Data.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.pdb
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.genruntimeconfig.cache
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\ref\AgreementsManagement.Data.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.Data\bin\Debug\net6.0\AgreementsManagement.Model.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.Data\bin\Debug\net6.0\AgreementsManagement.Model.pdb
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\bin\Debug\net6.0\AgreementsManagement.Data.deps.json
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\bin\Debug\net6.0\AgreementsManagement.Data.runtimeconfig.json
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\bin\Debug\net6.0\AgreementsManagement.Data.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\bin\Debug\net6.0\AgreementsManagement.Data.pdb
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\bin\Debug\net6.0\AgreementsManagement.Model.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\bin\Debug\net6.0\AgreementsManagement.Model.pdb
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.AssemblyInfo.cs
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.csproj.CopyComplete
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\refint\AgreementsManagement.Data.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.pdb
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.genruntimeconfig.cache
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\ref\AgreementsManagement.Data.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\bin\Debug\net6.0\AgreementsManagement.Data.deps.json
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\bin\Debug\net6.0\AgreementsManagement.Data.runtimeconfig.json
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\bin\Debug\net6.0\AgreementsManagement.Data.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\bin\Debug\net6.0\AgreementsManagement.Data.pdb
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\bin\Debug\net6.0\AgreementsManagement.Model.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\bin\Debug\net6.0\AgreementsManagement.Model.pdb
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.AssemblyInfo.cs
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.csproj.CopyComplete
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\refint\AgreementsManagement.Data.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.pdb
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\AgreementsManagement.Data.genruntimeconfig.cache
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement.Data\obj\Debug\net6.0\ref\AgreementsManagement.Data.dll

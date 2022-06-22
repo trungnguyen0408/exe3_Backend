@@ -1,0 +1,277 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement\\AgreementsManagement.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Business\\AgreementsManagement.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Business\\AgreementsManagement.Business.csproj",
+        "projectName": "AgreementsManagement.Business",
+        "projectPath": "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Business\\AgreementsManagement.Business.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Data\\AgreementsManagement.Data.csproj": {
+                "projectPath": "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Data\\AgreementsManagement.Data.csproj"
+              },
+              "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Model\\AgreementsManagement.Model.csproj": {
+                "projectPath": "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Model\\AgreementsManagement.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Data\\AgreementsManagement.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Data\\AgreementsManagement.Data.csproj",
+        "projectName": "AgreementsManagement.Data",
+        "projectPath": "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Data\\AgreementsManagement.Data.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Model\\AgreementsManagement.Model.csproj": {
+                "projectPath": "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Model\\AgreementsManagement.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Model\\AgreementsManagement.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Model\\AgreementsManagement.Model.csproj",
+        "projectName": "AgreementsManagement.Model",
+        "projectPath": "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Model\\AgreementsManagement.Model.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement\\AgreementsManagement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement\\AgreementsManagement.csproj",
+        "projectName": "AgreementsManagement",
+        "projectPath": "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement\\AgreementsManagement.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Business\\AgreementsManagement.Business.csproj": {
+                "projectPath": "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Business\\AgreementsManagement.Business.csproj"
+              },
+              "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Model\\AgreementsManagement.Model.csproj": {
+                "projectPath": "C:\\Users\\PC\\Desktop\\Git-Backend\\exe3_Backend\\AgreementsManagement\\AgreementsManagement.Model\\AgreementsManagement.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

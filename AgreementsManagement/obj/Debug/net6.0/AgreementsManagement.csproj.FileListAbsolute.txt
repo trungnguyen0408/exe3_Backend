@@ -1,0 +1,195 @@
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\appsettings.Development.json
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\appsettings.json
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.exe
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.deps.json
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.runtimeconfig.json
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.pdb
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.csproj.AssemblyReference.cache
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.AssemblyInfoInputs.cache
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.AssemblyInfo.cs
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.csproj.CoreCompileInputs.cache
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\staticwebassets.build.json
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\staticwebassets.development.json
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\scopedcss\bundle\AgreementsManagement.styles.css
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.csproj.CopyComplete
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\refint\AgreementsManagement.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.pdb
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.genruntimeconfig.cache
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\ref\AgreementsManagement.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.Business.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.Data.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.Business.pdb
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.Data.pdb
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.Model.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.Model.pdb
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.exe
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.deps.json
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.runtimeconfig.json
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.pdb
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.Business.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.Data.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.Model.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.Business.pdb
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.Model.pdb
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.Data.pdb
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.AssemblyInfo.cs
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\scopedcss\bundle\AgreementsManagement.styles.css
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.csproj.CopyComplete
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\refint\AgreementsManagement.dll
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.pdb
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.genruntimeconfig.cache
+C:\Users\PC\Desktop\Git_backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\ref\AgreementsManagement.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.exe
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.deps.json
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.runtimeconfig.json
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.pdb
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.Business.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.Data.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.Model.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.Business.pdb
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.Model.pdb
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\bin\Debug\net6.0\AgreementsManagement.Data.pdb
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.AssemblyInfo.cs
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\scopedcss\bundle\AgreementsManagement.styles.css
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.csproj.CopyComplete
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\refint\AgreementsManagement.dll
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.pdb
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\AgreementsManagement.genruntimeconfig.cache
+C:\Users\PC\Desktop\Git-Backend\exe3_Backend\AgreementsManagement\AgreementsManagement\obj\Debug\net6.0\ref\AgreementsManagement.dll

@@ -1,0 +1,12 @@
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.DTO\bin\Debug\net6.0\AgreementsManagement.DTO.deps.json
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.DTO\bin\Debug\net6.0\AgreementsManagement.DTO.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.DTO\bin\Debug\net6.0\AgreementsManagement.DTO.pdb
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.DTO\obj\Debug\net6.0\AgreementsManagement.DTO.csproj.AssemblyReference.cache
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.DTO\obj\Debug\net6.0\AgreementsManagement.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.DTO\obj\Debug\net6.0\AgreementsManagement.DTO.AssemblyInfoInputs.cache
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.DTO\obj\Debug\net6.0\AgreementsManagement.DTO.AssemblyInfo.cs
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.DTO\obj\Debug\net6.0\AgreementsManagement.DTO.csproj.CoreCompileInputs.cache
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.DTO\obj\Debug\net6.0\AgreementsManagement.DTO.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.DTO\obj\Debug\net6.0\refint\AgreementsManagement.DTO.dll
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.DTO\obj\Debug\net6.0\AgreementsManagement.DTO.pdb
+D:\USB E\TPS\exe\exe3\AgreementsManagement\AgreementsManagement.DTO\obj\Debug\net6.0\ref\AgreementsManagement.DTO.dll
